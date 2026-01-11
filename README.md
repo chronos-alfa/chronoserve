@@ -18,3 +18,8 @@ Can be used to:
   -port int
         Port to start listening on (default 8003)
 ```
+
+
+## Reason for this repo
+
+Replacement of the command `python -m http.server` for simple webpage testing
